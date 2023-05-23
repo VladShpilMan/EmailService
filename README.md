@@ -1,3 +1,3 @@
 # EmailService
 
-Trzeba podać swoje dane e-mail.
+Trzeba podać swoje dane e-mail w metodzie SendEmail();
